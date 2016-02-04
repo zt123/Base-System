@@ -1,0 +1,89 @@
+/**
+ * @author wanthings.com chengx nixgnehc@gmail.com
+ */
+ body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.sidebar-nav {
+    padding: 9px 0;
+}
+.score {
+    width:100px;
+}
+.f_red {
+    color: red;
+}
+/* 登陆*/
+.login body {
+    padding-top: 180px;
+    padding-bottom: 40px;
+}
+.login .navbar .brand {
+    font-size:24px;
+}
+.login .sidebar-nav {
+    padding: 9px 0;
+}
+.login #form-login {
+    width: 500px;
+    margin: 20px 0 120px;
+}
+.login .fixed_ie {
+    /*坑爹的出现样式名中出现span就有问题*/
+    width:200px;
+}
+.login .login_div {
+    width:600px;
+    margin:0px auto;
+}
+.big{
+    width: 900px;
+    margin-left: 100px;
+    /*border-style: solid;*/
+    height: 400px;
+    border-top: solid;
+    border-width: 1px;
+    border-color: #CCCCCC;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.aa{
+    height: 200px;
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    float: left;
+    margin-left: 22px;
+}
+/*.bb{
+    height: 180px;
+    width: 200px;
+}*/
+.pp{
+    padding-top: 5px;
+}
+table.applist td img, .app_update img{
+    height: 50px;
+    width: 150px;
+}
+footer p {
+    text-align: center;
+}
+.slider_list{
+    float: left;
+}
+.slider_list .slider{
+    margin: 0 10px;
+    width: 240px;
+    height: 180px;
+    float: left;
+}
+.slider_list .slider img{
+    width: 240px;
+    height: 140px;
+}
+.slider_list .slider p{
+    margin: 6px;
+}

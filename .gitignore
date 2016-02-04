@@ -1,0 +1,41 @@
+#svn files
+.svn
+
+#vim swp files
+*.swp
+*.swo
+
+#log files
+*.log
+
+#windows thumb files
+Thumbs.db
+
+#mac os x
+.DS_Store
+
+#project
+.buildpath
+.project
+.settings
+*.komodoproject
+
+#runtime log
+application.log*
+
+#assets
+assets/*
+
+#runtime
+protected/runtime/*
+statics/upload/*
+
+#yii config
+protected/config/main.php
+<<<<<<< HEAD
+#protected/config/console.php
+
+#python
+*.pyc
+=======
+>>>>>>> cea70fbf9757df267c205bab6adbafc2346f64fb
