@@ -32,10 +32,6 @@ statics/upload/*
 
 #yii config
 protected/config/main.php
-<<<<<<< HEAD
-#protected/config/console.php
 
 #python
 *.pyc
-=======
->>>>>>> cea70fbf9757df267c205bab6adbafc2346f64fb
